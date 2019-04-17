@@ -1,0 +1,58 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+button {
+
+	background-color: #FEBB01;
+	font-family: georgia, serif;
+}
+
+
+body {
+
+	background-color: ivory;
+
+}
+
+div h3 {
+	font-size: 300%;
+	text-align: center;
+}
+
+h1 {
+
+	text-align: center;
+}
+a:link {
+
+    color: red;
+}
+
+a:visited {
+
+    color: red;
+    
+}
+
+a:focus {
+
+	color: peachpuff;
+
+
+}
+
+a:hover {
+
+    color: red;
+}
+
+
+a:active {
+
+    color: purple;
+}
